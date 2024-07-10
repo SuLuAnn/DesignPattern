@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using DesignPattern.Composite;
+using DesignPattern.Decorator;
 
-new CompositeProgram().Main();
+new DecoratorProgram().Main();
