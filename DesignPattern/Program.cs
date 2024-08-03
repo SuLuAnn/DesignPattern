@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using DesignPattern.Observer;
+using DesignPattern.ChainOfResponsibility;
 
-new ObserverProgram().Main();
+new Client().Main();
