@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using DesignPattern.ChainOfResponsibility;
+using DesignPattern.Memento;
 
-new Client().Main();
+new MementoProgram().Main();
