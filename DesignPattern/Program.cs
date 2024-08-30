@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using DesignPattern.Memento;
+using DesignPattern.Bridge;
 
-new MementoProgram().Main();
+new BridgeProgram().Main();
