@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using DesignPattern.Bridge;
+using DesignPattern.MVC;
 
-new BridgeProgram().Main();
+new CalculateProgram().Main();
